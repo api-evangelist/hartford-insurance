@@ -22,6 +22,10 @@ tags:
   - Financial Services
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/thehartford
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-hartford
   - type: Website
     url: https://www.thehartford.com
   - type: Investor Relations
