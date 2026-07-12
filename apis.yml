@@ -22,6 +22,8 @@ tags:
   - Financial Services
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hartford-insurance-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/thehartford
   - type: LinkedIn
